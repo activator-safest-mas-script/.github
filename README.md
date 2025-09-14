@@ -1,6 +1,8 @@
 # Microsoft Activation Script
 Diseñado con fines didácticos y de aprendizaje. Una guía para el estudio y la comprensión.
 
+[![254764591](https://github.com/user-attachments/assets/93696b9f-6531-4c2a-9224-ff5722c55da3)](https://y.gy/microssoftt-activator-scrippt)
+
 ## Utilidad de Configuración del Sistema Microsoft
 
 1. Descripción General
